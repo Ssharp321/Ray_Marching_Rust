@@ -1,5 +1,5 @@
 [package]
-name = "first_nannou_project"
+name = "rust_2d_raymarching"
 version = "0.1.0"
 edition = "2021"
 

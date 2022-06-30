@@ -653,13 +653,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "9f6d018fb95a0b59f854aed68ecd96ce2b80af7911b92b1fed3c4b1fa516b91b"
 
 [[package]]
-name = "first_nannou_project"
-version = "0.1.0"
-dependencies = [
- "nannou",
-]
-
-[[package]]
 name = "fixedbitset"
 version = "0.1.9"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -2143,6 +2136,13 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "284de9dae38774e2813aaabd7e947b4a6fe9b8c58c2309f754a487cdd50de1c2"
 dependencies = [
  "petgraph 0.5.1",
+]
+
+[[package]]
+name = "rust_2d_raymarching"
+version = "0.1.0"
+dependencies = [
+ "nannou",
 ]
 
 [[package]]
